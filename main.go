@@ -4,5 +4,5 @@ import demo "github.com/luedigernet/moduleDemo"
 
 
 func main() {
-	demo.SayHello()
+	demo.SayHello("Reinhard")
 }
