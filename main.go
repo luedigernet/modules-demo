@@ -1,8 +1,13 @@
 package main
-import demo "github.com/luedigernet/moduleDemo"
+
+import (
+	"fmt"
+	demo "github.com/luedigernet/moduleDemo/v2"
+)
 
 
 
 func main() {
-	demo.SayHello("Reinhard")
+	result:= demo.SayHello("Reinhard")
+	fmt.Println(result)
 }
