@@ -2,3 +2,4 @@ module github.com/luedigernet/modules-demo
 
 go 1.13
 
+require github.com/luedigernet/moduleDemo v0.0.1
