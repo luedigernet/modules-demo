@@ -1,4 +1,4 @@
-module github.com/luedigernet/modules-demo
+module github.com/luedigernet/modules-demo/v2
 
 go 1.13
 
